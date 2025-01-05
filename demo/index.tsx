@@ -7,7 +7,7 @@ import DisabledYAxis from './examples/DisabledYAxis'
 import Exclude from './examples/Exclude'
 import Focal from './examples/Focal'
 import React from 'react'
-import ReactDOM from 'react-dom'
+import ReactDOM from 'react-dom/client'
 import SVG from './examples/SVG'
 import Standard from './examples/Standard'
 import Rotate from './examples/Rotate'
@@ -41,4 +41,5 @@ function Demos() {
   )
 }
 
-ReactDOM.render(<Demos />, document.getElementById('fixture'))
+const root = ReactDOM.createRoot(document.getElementById('fixture'))
+root.render(<Demos />)

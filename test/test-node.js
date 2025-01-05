@@ -5,6 +5,6 @@
  * should still only be initialized on the front-end.
  */
 const assert = require('assert')
-const Panzoom = require('../dist/panzoom')
+const Panzoom = require('../dist/panzoom.cjs')
 
 assert(Panzoom)
