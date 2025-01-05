@@ -1,11 +1,12 @@
-node_modules
-*.log
-.rpt2_cache/
-*.d.ts
-dist/
 coverage/
-docs/
-demo/panzoom.js
+*.log
+./.rpt2_cache/
+./docs/
+./demo/panzoom.js
+
+# Node
+node_modules
+package-lock.json
 
 # Yarn
 .yarn/*
@@ -15,4 +16,3 @@ demo/panzoom.js
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
-package-lock.json
