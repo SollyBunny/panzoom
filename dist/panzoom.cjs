@@ -1,5 +1,5 @@
 /**
-* Panzoom 4.5.1 for panning and zooming elements using CSS transforms
+* Panzoom 5.0.0 for panning and zooming elements using CSS transforms
 * Copyright Timmy Willison and other contributors
 * https://github.com/timmywil/panzoom/blob/main/MIT-License.txt
 */
