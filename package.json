@@ -1,7 +1,7 @@
 {
-  "name": "@panzoom/panzoom",
-  "version": "4.5.1",
-  "description": "Pan and zoom elements anywhere using native transformations",
+  "name": "panzoom",
+  "version": "5.0.0",
+  "description": "A fork of @panzoom/panzoom; Pan and zoom elements anywhere using native transformations",
   "type": "commonjs",
   "main": "dist/panzoom.cjs",
   "module": "dist/panzoom.mjs",
@@ -40,12 +40,18 @@
     "dragging",
     "drag"
   ],
-  "repository": "timmywil/panzoom",
+  "repository": "https://github.com/SollyBunny/panzoom/",
   "license": "MIT",
   "author": {
     "name": "Timmy Willison",
     "email": "4timmywil@gmail.com"
   },
+  "maintainers": [
+    {
+      "name": "SollyBunny",
+      "email": "hi@sollybunny.xyz"
+    }
+  ],
   "devDependencies": {
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
