@@ -1,8 +1,5 @@
 coverage/
 *.log
-./.rpt2_cache/
-./docs/
-./demo/panzoom.js
 
 # Node
 node_modules
