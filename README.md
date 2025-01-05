@@ -1,3 +1,5 @@
+This is a fork of panzoom to fix a few things and to get it to compile in the modern day
+
 # Panzoom
 
 [![Build Status](https://travis-ci.org/timmywil/panzoom.png?branch=main)](https://travis-ci.org/timmywil/panzoom)
